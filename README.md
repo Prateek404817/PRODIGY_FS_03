@@ -4,15 +4,6 @@ Welcome to **Local Store** – a clean, simple, and user-friendly local e-commer
 
 ---
 
-## 🎬 Demo Video  
-
-Check out the working demo of this project in action      
-[![Watch Demo](https://img.youtube.com/vi/NP435pW361M/0.jpg)](https://youtu.be/NP435pW361M)  
-
-📺 [Click here to watch on YouTube »](https://youtu.be/NP435pW361M)  
-
----
-
 ## 💡 Features  
 
 ✨ Simple and modern frontend    
@@ -78,7 +69,6 @@ PRODIGY_FS_03/
 ## 🚀 How to Run Locally  
 
 ### 1. Clone this Repo  
-git clone [CLICK HERE](https://github.com/Saurabh9122-tech/PRODIGY_FS_03.git)    
 cd PRODIGY_FS_03  
 ### **2. Install Backend Dependencies**        
 cd backend  
@@ -91,21 +81,21 @@ node server.js
 
 # **📸 Screenshots**  
 ### **HOME PAGE**  
-![Screenshot 2025-06-29 124617.png](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/Screenshot%202025-06-29%20124617.png)   
-### **CART**  
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/Screenshot%202025-06-29%20124649.png)
-### **ADDRESS **  
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/Screenshot%202025-06-29%20124723.png)  
-### **PAYMENT METHOD**  
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/Screenshot%202025-06-29%20124733.png)
-### **TRACKING**  
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/Screenshot%202025-06-29%20124743.png)  
----
-# **🙋‍♂️ About Me**
-Hi! I’m Saurabh Kumar, a web developer intern at Prodigy InfoTech.
-This project is part of my learning journey — building real-world solutions one step at a time.
+<img width="1881" height="924" alt="Screenshot 2025-06-29 124617" src="https://github.com/user-attachments/assets/c19493b1-5624-4501-9695-37ae3b2e8226" />
 
-### **🔗 LinkedIn**
-  [saurabh kumar](www.linkedin.com/in/saurabh-kumar-9999s)   
-# **🔒 License**
-[MIT](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/LICENSE)
+### **CART**  
+<img width="1895" height="722" alt="Screenshot 2025-06-29 124649" src="https://github.com/user-attachments/assets/e16d6301-0af8-4690-a7f7-a16a0d7ffb90" />
+
+### **ADDRESS **  
+ <img width="1895" height="480" alt="Screenshot 2025-06-29 124723" src="https://github.com/user-attachments/assets/aee6b5cd-5afd-4546-81fc-eecd6384f0db" />
+
+### **PAYMENT METHOD**  
+<img width="1904" height="489" alt="Screenshot 2025-06-29 124733" src="https://github.com/user-attachments/assets/e3412eb3-bff7-4f33-bdfc-4421f86a73d7" />
+
+### **TRACKING**  
+ <img width="1910" height="479" alt="Screenshot 2025-06-29 124743" src="https://github.com/user-attachments/assets/787567fa-4ec6-467c-96d3-33b9ad59b7a3" />
+
+---
+# **🙋‍♂️ Author**
+- Prateek Kumar
+
